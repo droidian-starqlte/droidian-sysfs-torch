@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: adaptation-droidian-surya
-Source: https://github.com/droidian-surya/droidian-sysfs-torch
+Upstream-Name: droidian-sysfs-torch
+Source: https://github.com/droidian-6765/droidian-sysfs-torch
 
 Files: *
 Copyright: Bardia Moshiri

@@ -1,5 +1,5 @@
 droidian-sysfs-torch (0.0.3) bookworm; urgency=medium
 
-  * change service type from static to a simple service
+  * adapt for garden
 
- -- Bardia Moshiri <fakeshell@bardia.tech>  Sun, 25 Nov 2022 11:50:40 +0330
+ -- Bardia Moshiri <fakeshell@bardia.tech>  Sun, 01 Jan 2023 20:50:40 +0330
