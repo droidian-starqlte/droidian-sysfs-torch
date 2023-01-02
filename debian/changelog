@@ -1,5 +1,5 @@
-droidian-sysfs-torch (0.0.3) bookworm; urgency=medium
+droidian-sysfs-torch (0.0.4) bookworm; urgency=medium
 
-  * adapt for garden
+  * adapt to garden nodes
 
- -- Bardia Moshiri <fakeshell@bardia.tech>  Sun, 01 Jan 2023 20:50:40 +0330
+ -- Bardia Moshiri <fakeshell@bardia.tech>  Sun, 02 Jan 2023 20:50:40 +0330
