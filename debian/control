@@ -4,11 +4,11 @@ Priority: optional
 Maintainer: Bardia Moshiri <fakeshell@bardia.tech>
 Build-Depends: debhelper (>= 10), qtdeclarative5-dev, qdbus-qt5
 Standards-Version: 4.4.1
-Homepage: https://github.com/droidian-mt6765/droidian-sysfs-torch
-Vcs-Browser: https://github.com/droidian-mt6765/droidian-sysfs-torch
-Vcs-Git: https://github.com/droidian-mt6765/droidian-sysfs-torch.git
+Homepage: https://github.com/droidian-starqlte/droidian-sysfs-torch
+Vcs-Browser: https://github.com/droidian-starqlte/droidian-sysfs-torch
+Vcs-Git: https://github.com/droidian-starqlte/droidian-sysfs-torch.git
 
 Package: droidian-sysfs-torch
-Architecture: armhf
+Architecture: arm64
 Depends: ${misc:Depends}, ${shlibs:Depends}, libqt5core5a
 Description: This service looks for changes in flashlightd dbus and applies it

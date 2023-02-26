@@ -25,8 +25,8 @@ private:
     const static int m_sysfsSwitchSize = 1;
     char* m_sysfsSwitch[m_sysfsSwitchSize] = {"/tmp/flashlight"};
 
-    const static int m_sysfsPathSize = 2;
-    char* m_sysfsPath[m_sysfsPathSize] = {"/sys/class/leds/flashlight/brightness", "/sys/class/leds/torch-light0/brightness"};
+    const static int m_sysfsPathSize = 1;
+    char* m_sysfsPath[m_sysfsPathSize] = {"/sys/devices/platform/soc/soc:i2c@1/i2c-23/23-0059/s2mpb02-led/leds/torch-sec1/brightness"};
 
 protected slots:
     void propertyChanged(QString interface, QVariantMap changed_properties, QStringList invalidated_properties);
